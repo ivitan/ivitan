@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ivitan/ivitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋
+
+My name is VITAN.
+
+- 🔭 I'm currently working on none
+- 🌱 I'm currently learning Linux
+- 💬 Ask me about iOS development
+- 📫 How to reach me: [vitan](https://vitan.me/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Never Settle
