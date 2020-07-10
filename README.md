@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 My name is VITAN.
 
 ### 📫 How to reach me
+- Blog: [VITAN](https://vitan.me)
 - Email: [vitan.me@gmail.com](mailto:vitan.me@gmail.com)
 - Twitter: [@VITAN](https://twitter.com/vitanme)
 
