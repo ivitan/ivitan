@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+### 👋 Hey!
 
 My name is VITAN.
 
-- 🔭 I'm currently working on none
-- 🌱 I'm currently learning Linux
-- 📫 How to reach me: [vitan](https://vitan.me/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Never Settle
+### 📫 How to reach me
+- Email: [vitan.me@gmail.com](mailto:vitan.me@gmail.com)
+- Twitter: [@VITAN](https://twitter.com/vitanme)
+
