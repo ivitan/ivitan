@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 My name is VITAN.
 
 ### 📫 How to reach me
-- Blog: [VITAN](https://vitan.me)
-- Email: [vitan.me@gmail.com](mailto:vitan.me@gmail.com)
-- Twitter: [@VITAN](https://twitter.com/vitanme)
 
+<a href="https://vitan.me">
+  <img align="left" alt="Blog" width="20px" src="https://vitan.me/img/favicon.png" />
+</a>
+<a href="https://twitter.com/vitanme">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/ivitan/ivitan/master/assets/twitter.svg" />
+</a>
