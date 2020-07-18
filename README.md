@@ -21,7 +21,7 @@ My name is VITAN.
 ### 📫 How to reach me
 
 <a href="https://vitan.me">
-  <img align="left" alt="Blog" width="21px" src="https://raw.githubusercontent.com/ivitan/ivitan/master/assets/vitan.svg" />
+  <img align="left" alt="Blog" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/vitan.svg" />
 </a>
 <a href="mailto:vitan.me@gmail.com">
   <img align="left" alt="Email" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/email.svg" />
