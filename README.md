@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hey friends!
 
-My name is VITAN.
+My name is **VITAN**.
 
 ### 📫 How to reach me
 
@@ -30,7 +30,14 @@ My name is VITAN.
   <img align="left" alt="Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/twitter.svg" />
 </a>
 
+<br>
+
+---
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<br>
+---
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ivitan.ivitan)
