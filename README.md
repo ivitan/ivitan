@@ -1,24 +1,8 @@
-<!--
-**ivitan/ivitan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-### 👋 Hey friends!
+# 👋 Hey friends!
 
 My name is **VITAN**.
 
-### 📫 How to reach me
+# 📫 How to reach me
 
 <a href="https://vitan.me">
   <img align="left" alt="Blog" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/vitan.svg" />
@@ -32,12 +16,9 @@ My name is **VITAN**.
 
 <br>
 
----
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <br>
----
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ivitan.ivitan)
