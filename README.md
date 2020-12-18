@@ -14,15 +14,4 @@ My name is **VITAN**.
   <img align="left" alt="Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/twitter.svg" />
 </a>
 
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-<br>
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ivitan.ivitan)
