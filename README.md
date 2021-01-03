@@ -1,8 +1,10 @@
-# 👋 Hey friends!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ivitan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+## 👋 Hey friends!
 
 My name is **VITAN**.
 
-# 📫 How to reach me
+### 📫 How to reach me
 
 <a href="https://vitan.me">
   <img align="left" alt="Blog" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/vitan.svg" />
