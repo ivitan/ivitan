@@ -15,7 +15,3 @@ My name is **VITAN**.
 <a href="https://twitter.com/VitanOrz">
   <img align="left" alt="Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/twitter.svg" />
 </a>
-
-<br><br>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ivitan.ivitan)
