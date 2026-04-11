@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ivitan&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=000000&hide_title=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivitan)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 👋 Hey friends !
 
