@@ -1,5 +1,9 @@
 <img align="right" src="https://githubcard.com/ivitan.svg?d=j6LjQ0Vi" />
 
+</hr>
+</hr>
+
+
 ## 👋 Hey friends !
 
 My name is **VITAN**.
