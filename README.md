@@ -16,6 +16,6 @@ My name is **VITAN**.
 <a href="mailto:vitan.me@gmail.com">
   <img align="left" alt="Email" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/email.svg" />
 </a>
-<a href="https://twitter.com/VitanOrz">
+<a href="https://twitter.com/">
   <img align="left" alt="Twitter" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/twitter.svg" />
 </a>
