@@ -13,7 +13,7 @@ My name is **VITAN**.
 <a href="https://ivitan.com">
   <img align="left" alt="Blog" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/vitan.svg" />
 </a>
-<a href="mailto:vitan.me@gmail.com">
+<a href="mailto:admin@ivitan.com">
   <img align="left" alt="Email" width="21px" src="https://cdn.jsdelivr.net/gh/ivitan/Picture@master/images/email.svg" />
 </a>
 <a href="https://twitter.com/">
