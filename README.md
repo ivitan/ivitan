@@ -1,9 +1,6 @@
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ivitan&layout=compact&langs_count=8&show_icons=true&theme=radical)
 ![vitan's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=ivitan&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
 
-</br>
-</br>
-
 ## 👋 Hey friends !
 
 My name is **VITAN**.
