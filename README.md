@@ -1,5 +1,8 @@
 <img align="right" src="https://githubcard.com/ivitan.svg?d=JjTl7458" />
 
+-readme-stats-ten-gilt.vercel.app/api?username=ivitan&count_private=true&show_icons=true&theme=radical&include_all_commits=true)  
+![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=ivitan&layout=compact&hide=css,scss,shell,html&langs_count=8&show_icons=true&theme=
+
 </hr>
 </hr>
 
