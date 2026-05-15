@@ -1,7 +1,5 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/ivitan&label=visitors&labelColor=%23363636&countColor=%231e90ff&style=plastic)
 
----
-
 <img src="https://stats.ivitan.com/api/top-langs/?username=ivitan&layout=compact&langs_count=8&show_icons=true&theme=radical" width="495" style="border-radius: 5px;">
 
 <img src="https://stats.ivitan.com/api?username=ivitan&count_private=true&show_icons=true&theme=radical&include_all_commits=true" width="495" style="border-radius: 5px;">
